@@ -1,0 +1,7 @@
+# Rename to universe_override.txt to pin the scan universe to these symbols.
+# One NSE symbol per line; blank lines and # comments ignored.
+RELIANCE
+TATAMOTORS
+INFY
+HDFCBANK
+ITC
